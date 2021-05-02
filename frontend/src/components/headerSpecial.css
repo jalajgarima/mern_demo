@@ -1,0 +1,22 @@
+.newdiv {
+  flex-flow: row nowrap;
+
+  justify-content: center;
+  text-align: center;
+  background-color: cadetblue;
+  padding: 0;
+  /* position: fixed;
+  top: 0; */
+}
+.forh6 {
+  font-size: 1rem;
+  font-weight: bold;
+  margin: auto;
+  padding: 0.5rem;
+}
+/* .trynavclass {
+  position: sticky;
+  top: 20vh;
+} 
+className="trynavclass"
+*/
